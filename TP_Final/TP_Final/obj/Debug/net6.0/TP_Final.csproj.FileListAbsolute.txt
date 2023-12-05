@@ -1,0 +1,15 @@
+C:\Users\konsa\OneDrive\Área de Trabalho\IFSP\4º Semestre\Estrutura de Dados II\TP_Final\TP_Final\bin\Debug\net6.0\TP_Final.exe
+C:\Users\konsa\OneDrive\Área de Trabalho\IFSP\4º Semestre\Estrutura de Dados II\TP_Final\TP_Final\bin\Debug\net6.0\TP_Final.deps.json
+C:\Users\konsa\OneDrive\Área de Trabalho\IFSP\4º Semestre\Estrutura de Dados II\TP_Final\TP_Final\bin\Debug\net6.0\TP_Final.runtimeconfig.json
+C:\Users\konsa\OneDrive\Área de Trabalho\IFSP\4º Semestre\Estrutura de Dados II\TP_Final\TP_Final\bin\Debug\net6.0\TP_Final.dll
+C:\Users\konsa\OneDrive\Área de Trabalho\IFSP\4º Semestre\Estrutura de Dados II\TP_Final\TP_Final\bin\Debug\net6.0\TP_Final.pdb
+C:\Users\konsa\OneDrive\Área de Trabalho\IFSP\4º Semestre\Estrutura de Dados II\TP_Final\TP_Final\obj\Debug\net6.0\TP_Final.csproj.AssemblyReference.cache
+C:\Users\konsa\OneDrive\Área de Trabalho\IFSP\4º Semestre\Estrutura de Dados II\TP_Final\TP_Final\obj\Debug\net6.0\TP_Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konsa\OneDrive\Área de Trabalho\IFSP\4º Semestre\Estrutura de Dados II\TP_Final\TP_Final\obj\Debug\net6.0\TP_Final.AssemblyInfoInputs.cache
+C:\Users\konsa\OneDrive\Área de Trabalho\IFSP\4º Semestre\Estrutura de Dados II\TP_Final\TP_Final\obj\Debug\net6.0\TP_Final.AssemblyInfo.cs
+C:\Users\konsa\OneDrive\Área de Trabalho\IFSP\4º Semestre\Estrutura de Dados II\TP_Final\TP_Final\obj\Debug\net6.0\TP_Final.csproj.CoreCompileInputs.cache
+C:\Users\konsa\OneDrive\Área de Trabalho\IFSP\4º Semestre\Estrutura de Dados II\TP_Final\TP_Final\obj\Debug\net6.0\TP_Final.dll
+C:\Users\konsa\OneDrive\Área de Trabalho\IFSP\4º Semestre\Estrutura de Dados II\TP_Final\TP_Final\obj\Debug\net6.0\refint\TP_Final.dll
+C:\Users\konsa\OneDrive\Área de Trabalho\IFSP\4º Semestre\Estrutura de Dados II\TP_Final\TP_Final\obj\Debug\net6.0\TP_Final.pdb
+C:\Users\konsa\OneDrive\Área de Trabalho\IFSP\4º Semestre\Estrutura de Dados II\TP_Final\TP_Final\obj\Debug\net6.0\TP_Final.genruntimeconfig.cache
+C:\Users\konsa\OneDrive\Área de Trabalho\IFSP\4º Semestre\Estrutura de Dados II\TP_Final\TP_Final\obj\Debug\net6.0\ref\TP_Final.dll
